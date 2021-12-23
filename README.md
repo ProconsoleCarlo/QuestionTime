@@ -1,5 +1,8 @@
 # Welcome to Question Time 👋
 
+<a href="#">
+    <img alt="Status" src="https://img.shields.io/badge/status-✅ Complete-brightgreen.svg" />
+</a>
 <a href="./Guida.pdf" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
 </a>

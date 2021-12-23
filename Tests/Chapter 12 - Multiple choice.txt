@@ -1,0 +1,210 @@
+1.	Bounded rationality:
+a.	should be avoided.
+b.	involves an 8-step decision making process, including both problem identification and problem solution.
+c.	proves to us that even when time and resources are limited, we should quantify as much as possible to weigh all alternatives correctly.
+d.	describes how decisions actually have to be made under severe time and resource constraints.
+ANSWER:	d
+
+2.	Which type of decision-making would typically be used to the extent possible in an objective process of selection of a new employee?
+a.	Inspiration and imitation
+b.	Carnegie model
+c.	Garbage can model
+d.	Rational approach
+ANSWER:	d
+
+3.	When Tom Smith, CEO of Food Lion reads Modern Grocer, visits other grocery stores to compare prices, and reviews daily sales figures, he is doing activities in which of the following steps of the rational approach?
+a.	Monitor the decision environment
+b.	Define the decision problem
+c.	Specify decision objectives
+d.	Diagnose the problem
+ANSWER:	a
+
+4.	The rational approach to decision making involves all of the following steps except:
+a.	define the decision problem.
+b.	evaluate alternatives.
+c.	implement an alternative to test its viability.
+d.	diagnose the problem.
+ANSWER:	c
+
+5.	Which step in the rational approach immediately follows developing alternative solutions?
+a. 	Evaluate alternatives
+b.	Diagnose the problem
+c.	Implement an alternative to test its viability
+d.	Implement the chosen alternative
+ANSWER:	a
+
+6.	The stage in which alternative courses of action are considered and one is chosen and implemented is:
+a.	the first 3 steps of the rational approach, called problem recognition.
+b.	the last 4 steps of the rational approach, called problem solution.
+c.	programmed decision.
+d.	bounded rationality.
+ANSWER:	b
+
+7.	The first four steps of the rational approach to decision making are specifically designed to help a manager:
+a.	follow the scientific method.
+b.	devise a problem solution.
+c.	evaluate alternative solutions.
+d.	identify the problem.
+ANSWER:	d
+
+8.	Which of the following is not recognized as a constraint and trade-off during nonprogrammed decision making?
+a.	Personal constraints
+b.	Environmental constraints
+c.	Bounded rationality
+d.	Organizational constraints
+ANSWER:	b
+
+9.	Intuitive decision making uses _______ to make decisions.
+a.	logic
+b.	judgment
+c.	explicit reasoning
+d.	a systematic approach
+ANSWER:	b
+
+10.	Intuitive decision processes would work best when which of the following factors were dominant:
+a.	managers can use networked computer databanks for analysis.
+b.	there are few alternatives available.
+c.	experience with similar decisions is extensive, and has been successful.
+d.	a manager must make the decision alone.
+ANSWER:	c
+
+11.	The important decisions made on the title of the Star Wars movie or purchasing the McDonald name for $2.7 million were examples of:
+a.	the supremacy of data and research.
+b.	the garbage can model.
+c.	intuitive decision making.
+d.	problem consensus.
+ANSWER:	c
+
+12.	In the example given at Paramount Pictures, what style of decision making did Michael Eisner use in selecting films?
+a.	Intuitive
+b.	High velocity escalation
+c.	Marketing research, comparable to the rational approach
+d.	Scientific management
+ANSWER:	a
+
+13.	The management science model for decision making is best to use when:
+a.	problems are unanalyzable, and problem consensus is high.
+b.	problems are analyzable and measurable, and parties involved agree on goals.
+c.	solution knowledge is low, and problem consensus is low.
+d.	solution knowledge is low, and problems can't be structured logically.
+ANSWER:	b
+
+14.	Management science works best for decisions when problems:
+a.	are vague.
+b.	have unknown variables.
+c.	are analyzable.
+d.	are qualitative and cannot be quantified.
+ANSWER:	c
+
+15.	A company that uses a computerized system extensively in their production process from the design stage through the automatic ordering of raw materials through preparation for delivery would be using which type of organizational decision making?
+a.	Garbage can
+b.	Incremental process
+c.	Carnegie
+d.	Management science
+ANSWER:	d
+
+16.	The Carnegie model of organizational decision making says that organizational decisions:
+a.	involve few managers because of the simplicity with which decisions are made.
+b.	use coalitions for the final choice.
+c.	avoid the pitfall of problemistic search.
+d.	uses coalitions only at lower levels of management.
+ANSWER:	b
+
+17.	A small university department was comprised of six male faculty members.  During faculty meetings when the department was faced with a difficult decision, a faculty member would suggest they take a break.  During the break, four faculty would adjourn to the coffee room and agree on the decision that would be made.  This is an example of:
+a.	bounded rationality.
+b.	intuitive decision making.
+c.	a coalition.
+d.	crisis decision making.
+ANSWER:	c
+
+18.	_______ means organizations accept a satisfactory rather than a maximum level of performance, enabling them to achieve several goals simultaneously.
+a.	Satisficing
+b.	Bounded rationality
+c.	Problem consensus
+d.	Escalating commitment
+ANSWER:	a
+
+19.	The incremental decision process model places emphasis on:
+a.	political factors.
+b.	social factors.
+c.	the sequence of activities in the decision process.
+d.	intuitive processes.
+ANSWER:	c
+
+20.	The incremental decision model is based on research showing that:
+a.	a manager with a proposal can get his idea implemented by breaking it down into small steps and installing one step before going on to another.
+b.	many major organizational decisions occur through a series of smaller decisions made over a fairly long period of time.
+c.	programmed decisions involve several mathematical formulas that build on each other.
+d.	none of the above.
+ANSWER:	b
+
+21.	In the garbage can model of decision making:
+a.	a "choice opportunity" could explain an odd choice simply because it was time to make some decision.
+b.	participants provide the stability needed to explain decision making, and remove its otherwise random quality.
+c.	the company has an insufficient level of technology.
+d.	all of the above.
+ANSWER:	a
+
+22.	Which of the following are characteristics of organized anarchies?
+a.	Clearly defined problems, unclear technology and turnover
+b.	Unclear technology, turnover, and problematic preferences
+c.	Slow change, nonbureaucratic environment, and turnover
+d.	Rapid change, ambiguous goals, and routine technology
+ANSWER:	b
+
+23.	The garbage can model shows:
+a.	how poor inputs into decision making results in poor decisions.
+b.	how decisions can be made in mechanistic organizations.
+c.	four streams of events which influence decision making.
+d.	decision making in a stable environment.
+ANSWER:	c
+
+24.	In the garbage can model:
+a.	solutions may be proposed even when problems do not exist.
+b.	choices are not made unless problems are solved.
+c.	many problems are solved.
+d.	no problem is allowed to persist without being solved.
+ANSWER:	a
+
+25.	The agreement among managers about the nature of a problem or opportunity and about which goals and outcomes to pursue is referred to as:
+a.	organizational decision making.
+b.	problemistic search.
+c.	organized anarchy.
+d.	problem consensus.
+ANSWER:	d
+
+26.	According to the contingency framework for decision models, the Carnegie Model for organizational decision making should be used when:
+a.	there is high uncertainty in both problems and solutions.
+b.	managers agree on goals and look for optimal solutions.
+c.	decisions are nonprogrammable and can be made by an individual.
+d.	all of the above--the Carnegie Model should be used in every cell of the framework.
+ANSWER:	a
+
+27.	Only by making mistakes can managers and organizations go through the process of _______ and acquire sufficient experience and knowledge to perform more effectively in the future.
+a.	escalating commitment
+b.	nonprogrammed decision making
+c.	problem consensus
+d.	decision learning
+ANSWER:	d
+
+28.	Given the principles of escalating commitment, in which situation described below would you give the greatest funding to the same program in 1995?
+a.	After you funded the program in 1993, it turned out to be very profitable.
+b.	After another manager funded the program in 1993, it turned out to be very profitable.
+c.	After you funded the program in 1993, it turned out to be a "loser," showing actual prospects of failing.
+d.	After another manager funded the program in 1993, it turned out to be a "loser," showing actual prospects of failing.
+ANSWER:	c
+
+29.	The phenomenon known as "escalating commitment" refers to:
+a.	an increase in the commitment to a decision only when it begins to prove itself as correct or profitable.
+b.	continuing to invest time and money in a solution despite evidence of failure.
+c.	the need for top management to accept decisions made by lower levels and commit to their implementation.
+d.	none of the above. 
+ANSWER:	b
+
+30.	What process would explain increasing the amount of budget for an on-going project on which managers received feedback that it was destined for failure?
+a.	The garbage can model
+b.	Flexible decision style
+c.	Escalating commitment
+d.	Organized anarchy
+ANSWER:	c
+

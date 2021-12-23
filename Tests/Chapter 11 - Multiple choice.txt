@@ -1,0 +1,217 @@
+1.	Today it should be recognized that: 
+a.	stability is the environmental norm.
+b.	organizational change should occur incrementally.
+c.	if it ain't broke, don't fix it is a rule of management.
+d.	change is dramatic and constant.
+ANSWER:	d
+
+2.	_______ represents a series to continual progressions that maintain the organization?s general equilibrium and often affect only one organizational part.
+a.	Radical change
+b.	Incremental change
+c.	Technology change
+d.	Strategy and structure change
+ANSWER:	b
+
+3.	Radical change:
+a.	occurs through the established structure.
+b.	represents a series of continuous progressions for maintaining the organization's general equilibrium.
+c.	generally affects only one organizational part.
+d.	will likely involve breakthrough technology.
+ANSWER:	d
+
+4.	Which of the following is considered radical change?
+a.	Corporate turnarounds and transformations.
+b.	Any series of continual progressive changes affecting one organizational part, and then another.
+c.	Implementation of sales teams in the marketing department.
+d.	Bringing new technology to product development.
+ANSWER:	a
+
+5.	The four strategic types of change highlighted in our text include which of the following categories?
+a.	Changing domain
+b.	Installation of teams
+c.	Culture
+d.	Development of interorganizational relationships
+ANSWER:	c
+
+6.	The four strategic types of change highlighted in our text include all of the following categories except:
+a.	technology.
+b.	products and services.
+c.	strategy and structure.
+d.	life cycle maturation.
+ANSWER:	d
+
+7.	The type of change which will have direct impact on the administrative domain in an organization is called _____ change.
+a.	technology
+b.	product and service
+c.	strategy and structure 
+d.	people
+ANSWER:	c
+
+8.	ABC Credit Union began offering a "Sweep Account," in which funds over $500 in a checking account would be "swept" into a money-market, interest-bearing, account until the checking account reached $100, at which point, funds from the money market account would be "swept" back into the checking account. This is an example of a ____ change.
+a.	product or service 
+b.	technological
+c.	strategy and structure
+d.	people
+ANSWER:	a
+
+9.	Coming up with a new way of doing things is the _______ step of the change process.
+a.	need
+b.	idea
+c.	adoption
+d.	resources
+ANSWER:	b
+
+10.	The adoption of an idea or behavior that is new to the organization's industry, market, or general environment is referred to as:
+a.	the ambidextrous approach.
+b.	the dual-core approach.
+c.	strategy and structure change.
+d.	organizational innovation.
+ANSWER:	d
+
+11.	Which of the following is not given as an essential element for successful change?
+a.	Adoption
+b.	Need
+c.	Resources
+d.	Competition
+ANSWER:	d
+
+12.	_______ occurs when decision makers choose to go ahead with a proposed idea.
+a.	Need
+b.	Adoption
+c.	Implementation
+d.	Resource
+ANSWER:	b
+
+13.	The flexibility of a(n) ________ organization is attributed to people?s freedom to be creative and introduce new ideas.
+a.	mechanistic
+b.	bureaucratic
+c.	organic
+d.	resource
+ANSWER:	c
+
+14.	The ambidextrous approach refers to:
+a.	using different structures and management processes for creation and for implementation.
+b.	introducing parts of a new procedure while maintaining parts of the old procedure.
+c.	not letting the "left hand" (one department) know what the "right hand" (another department) is doing.
+d.	using highly skilled employees to implement a change.
+ANSWER:	a
+
+15.	_______ means an organization creates an organic structure when such a structure is needed for the initiation of new ideas.
+a.	Culture change
+b.	Dual-core approach
+c.	Ambidextrous approach
+d.	Switching structures
+ANSWER:	d
+
+16.	A(n) _______ provides a safe harbor where ideas from employees throughout the organization can be developed without interference from company bureaucracy or politics.
+a.	switching structure
+b.	idea incubator
+c.	idea champion
+d.	technical core
+ANSWER:	b
+
+17.	A venture team:
+a.	may increase commitment, but stifles creativity.
+b.	is often given a separate location and facilities.
+c.	is like a large company within a small company.
+d.	is most often found in a mechanistic organization.
+ANSWER:	b
+
+18.	Corporate entrepreneurship:
+a.	attempts to release the creative energy of all employees.
+b.	usually results in fewer, though higher quality, innovations.
+c.	will replace creative departments and new venture teams.
+d.	results in idea champions who are the supervisors of production.
+ANSWER:	a
+
+19.	A(n) _______ is a separate, small, informal, highly autonomous, and often secretive group that focuses on breakthrough ideas for the business.
+a.	idea champion
+b.	idea incubator
+c.	new-venture fund
+d.	skunkworks
+ANSWER:	d
+
+20.	When it comes to new product success rate, only _____ percent of all projects originally undertaken achieved economic success.
+a.	60
+b.	30
+c.	12
+d.	3
+ANSWER:	c
+
+21.	All of the following were concluded in the study called Project SAPPHO except:
+a.	successful innovating companies made more effective use of outside technology and outside advice, even though they did more work in-house.
+b.	Successful innovating companies had a much better understanding of customer needs and paid much more attention to marketing.
+c.	Employees had little say in the way production processes were developed and in decision making.
+d.	Top management support in the successful innovating companies was from people who were more senior and had greater authority.
+ANSWER:	c
+
+22.	Key components of organization design contributing to successful new product innovation are:
+a.	specialization, boundary spanning, and horizontal coordination.
+b.	formalization, hierarchy, and organic structure.
+c.	specialization, formalization, and standardization.
+d.	dual-core processes, top management support, and incremental change.
+ANSWER:	a
+
+23.	It has been found that new products will be more successful if:
+a.	a company pays more attention to production than to marketing so quality can improve.
+b.	outside technology is used.
+c.	most work is done by subcontractors.
+d.	those without much authority or seniority become product champions.
+ANSWER:	b
+
+24.	In the horizontal coordination model the ________ component means that each department involved with new products has excellent linkage with relevant sectors in the external environment.
+a.	specialization
+b.	boundary spanning
+c.	horizontal coordination
+d.	coordination
+ANSWER:	b
+
+25.	Delivering products and services faster than competitors, giving companies a competitive edge is referred to as:
+a.	competitive advantage.
+b.	horizontal coordinations.
+c.	time-based competition.
+d.	boundary spanning.
+ANSWER:	c
+
+26.	The point of the _______ is that many organizations must adopt frequent administrative changes and need to be structured differently from organizations that rely on frequent technical and product changes for competitive advantages.
+a.	horizontal coordination model
+b.	switching structure
+c.	ambidextrous approach 
+d.	dual-core approach
+ANSWER:	d
+
+27.	Technical innovation is facilitated by a(n) ______ process and a(n) _______ structure, while administrative change best occurs as a result of a(n) ______ process and a(n) ______ structure.
+a.	top-down, organic ?  bottom-up, mechanistic
+b.	bottom-up, organic ?  top-down, mechanistic
+c.	strategic, mechanistic ?  tactical, organic
+d.	ambidextrous, product ?  OD intervention, functional
+ANSWER:	b
+
+28.	Which of the following is not a force for culture change?
+a.	The learning organization
+b.	Diversity
+c.	Large group intervention
+d.	Reengineering and horizontal organizing
+ANSWER:	c
+
+29.	Organizational development often entails large group intervention that involves:
+a.	radical or transformational change in organizations.
+b.	electronic data interchange for the organization as a whole.
+c.	teaching hourly and salaried workers how to participate in strategic planning.
+d.	attempts to bring new emphasis to total quality management.
+ANSWER:	a
+
+30.	When an organization development consultant brings together a group to discuss and solve problems such as conflicts, goals, decision making, or communication, the intervention technique is called:
+a.	survey-feedback.
+b.	team building.
+c.	culture management.
+d.	technical training.
+ANSWER:	b
+
+31.	An organizational barrier to change is:
+a.	uncertainty avoidance.
+b.	fear of loss.
+c.	risk too low.
+d.	excessive focus on costs.
+ANSWER:	d
+

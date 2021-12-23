@@ -1,0 +1,210 @@
+1.	Woodward's classification of technology (into three clusters of organizational technologies) was based on a scale that measured:
+a.	the number of employees in the span of control
+b.	the interdependence of tasks.
+c.	the technological complexity of the organization's technical core.
+d.	the variety and analyzability of tasks within each department.
+ANSWER:	c
+
+2.	_______ production represents mechanization and standardization one step beyond those in an assembly line.
+a.	Continuous process
+b.	Large-batch
+c.	Technical complexity
+d.	Small-batch
+ANSWER:	a
+
+3.	Which of the following links together manufacturing components that previously stood alone?
+a.	Continuous process systems.
+b.	Flexible manufacturing systems.
+c.	Advance technological systems.
+d.	Computerized process systems.
+ANSWER:	b
+
+4.	Computer integrated manufacturing is the result of three subcomponents, these are:
+a.	CAD, CAM, and integration information network.
+b.	people, hardware, and software.
+c.	information, computers, and procedures.
+d.	CIM, ADC, and software.
+ANSWER:	a
+
+5.	The heart of _______ is not machines, but employee involvement.
+a.	mass customization
+b.	FMS
+c.	lean manufacturing
+d.	CAD
+ANSWER:	c
+
+6.	The awesome advantage of FMS is that:
+a.	it requires little training to use.
+b.	there is little employee involvement.
+c.	one product can be produced at a time, making it easier for employees to operate.
+d.	products of different sizes, types, and customer requirements freely intermingle on the assembly line.
+ANSWER:	d
+
+7.	Characteristics of service technology include all of the following except:
+a.	longer response time is acceptable.
+b.	labor- and knowledge-intensive.
+c.	customer interaction is generally higher.
+d.	quality is perceived and difficult to measure.
+ANSWER:	a
+
+8.	A retail store such as Macy's would be an example of a(n) _____________ organization.
+a.	service
+b.	product and service
+c.	product
+d.	consuming
+ANSWER:	b
+
+9.	Service organizations can achieve their greatest economies through:
+a.	centralization of services.
+b.	geographic concentration.
+c.	disaggregation into small units located close to customers.
+d.	centralized decision making.
+ANSWER:	c
+
+10.	_______ means providing exactly the service each customer wants and needs.
+a.	Service complexity
+b.	Customized output
+c.	Mass customization
+d.	CAM
+ANSWER:	b
+
+11.	The frequency of unexpected and novel events that occur in the conversion process refers to:
+a.	uncertainty.
+b.	accountability.
+c.	variety.
+d.	analyzability.
+ANSWER:	c
+
+12.	Perrow is most concerned with which of the following?
+a.	Two aspects of technology: variety and analyzability.
+b.	Two types of structures that seem to determine which technology is best.
+c.	Two aspects of environment that call for a particular structure.
+d.	Two types of structure that seem to determine which environment should be enacted.
+ANSWER:	a
+
+13.	The technology employed by an oil explorer of using an "internal divining rod" to decide where to begin drilling operations would be called a(n) ________________ technology.
+a.	routine
+b.	craft
+c.	engineering
+d.	high analyzability
+ANSWER:	b
+
+14.	Using Perrow's framework, in which category would you most likely find the public relations department of Dow Chemical Co., the outreach arm for all media and community relations?
+a.	Craft.
+b.	Nonroutine.
+c.	Engineering.
+d.	Routine.
+ANSWER:	b
+
+15.	The Verification Department of the Internal Revenue Service checks the mathematics on returns and notes any discrepancies; this department would fit into which of Perrow's quadrants?
+a.	Craft.
+b.	Routine.
+c.	Engineering.
+d.	Nonroutine.
+ANSWER:	b
+
+16.	The general pattern in technology research is that when technologies are routine, analyzable, independent, and well defined, then:
+a.	use organic structures with less control, fewer procedures, decentralized decision making, and face-to-face communications.
+b.	a sociotechnical approach should be used.
+c.	mechanistic structures with tighter control, formalized procedures, centralized decision making, and written communications are appropriate.
+d.	coordination must be achieved through CIM.
+ANSWER:	c
+
+17.	Assume you are the supervisor of workers who have very limited education and experience, and that their work is routine. Generally you would:
+a.	be able to handle only a narrow span of control.
+b.	strive for low centralization and low formalization.
+c.	use the human relations model.
+d.	be able to have a wide span of control.
+ANSWER:	d
+
+18.	Juan works for a college that offers correspondence courses. She works in the mailroom department stuffing envelopes with the replies of professors to students. She then seals the envelopes and puts them in an outgoing bin. She finds that on this job she has a lot of time for daydreaming. You would expect the organizational structure in her department should be:
+a.	mechanistic.
+b.	organic.
+c.	high in variety.
+d.	unanalyzable.
+ANSWER:	a
+
+19.	Primary emphasis for achieving coordination for different types of technological interdependence among departments includes:
+a.	those with low interdependence - various techniques to achieve standardization.
+b.	pooled interdependence - committees and teams for effective planning.
+c.	sequential interdependence - cross-functional teams for mutual adjustment and a high level of interaction.
+d.	those with high interdependence achieve coordination adequately with vertical communication and rules for formalization.
+ANSWER:	a
+
+20.	Baseball would be a close analogy for:
+a.	sequential interdependence.
+b.	pooled interdependence.
+c.	reciprocal interdependence.
+d.	the highest level of team interdependence.
+ANSWER:	b
+
+21.	Suppose that DiamlerChrysler is considering changing its production operations from an assembly line in which each employee adds one piece as a car chassis goes by to an operation in which several employees work as a team to build the total car, with the team deciding who does what tasks. If DiamlerChrysler implements the change, the interrelationships would change from:
+a.	pooled interdependence on the line to reciprocal interdependence between the teams.
+b.	reciprocal interdependence on the line to sequential interdependence between the teams.
+c.	sequential interdependence on the line to pooled interdependence between the teams.
+d.	routine tasks to mediating technology.
+ANSWER:	c
+
+22.	A building contractor is constructing 35 "track homes" on small adjoining parcels. The crew knows that the many subcontractors must complete their work in a proper order. What is your recommendation regarding the level of coordination required?
+a.	Because this is pooled interdependence, rules from the construction industry should suffice because then everyone on the job can learn the rules for the proper ordering of subcontractors.
+b.	Because this is reciprocal interdependence, cross-functional teams among all the subcontractors will be essential.
+c.	Because this is sequential interdependence, regularly scheduled meetings and planning will be needed to coordinate the ordering of the work.
+d.	Because this is a sociotechnical system, it is most important to design the coordination to improve efficiency, ignoring human needs.
+ANSWER:	c
+
+23.	In football, the interdependence may be termed:
+a.	pooled because management must select individual players and develop their skills.
+b.	sequential because plays are run sequentially and events during the plays occur sequentially.
+c.	reciprocal because mutual adjustments must be made by the players.
+d.	sporadic, because it is really a game of individual talents.
+ANSWER:	b
+
+24.	_______ includes the assignment of goals and tasks to be accomplished by employees.
+a.	Job rotation
+b.	Job coordination
+c.	Job exchange
+d.	Job design
+ANSWER:	d
+
+25.	Which of the following means that the job provides greater responsibility, recognition, and opportunities for growth and development?
+a.	Job enrichment.
+b.	Job rotation.
+c.	Job design.
+d.	Job simplification.
+ANSWER:	a
+
+26.	The purpose of the sociotechnical systems approach is to:
+a.	apply the theory of job enlargement.
+b.	provide qualified management to an organization in a turbulent environment.
+c.	offer the most advanced information technology possible to maximize organizational competitiveness.
+d.	combines human needs with technical efficiency in job design.
+ANSWER:	d
+
+27.	The goal of the sociotechnical systems approach is to design the organization for:
+a.	joint optimization.
+b.	reengineering.
+c.	self-regulation of advanced technology.
+d.	strong organization culture.
+ANSWER:	a
+
+28.	The impact of advanced technologies on job design has been:
+a.	job simplification.
+b.	no change.
+c.	job enrichment.
+d.	lowered wages.
+ANSWER:	c
+
+29.	The impact of technology on job design includes:
+a.	job simplification.
+b.	greater division of labor.
+c.	jobs requiring higher-level skills.
+d.	lower compensation because of the financial emphasis on equipment.
+ANSWER:	c
+
+30.	_______ is defined as an organization functions best only when the social and technical systems are defined to fit the needs of one another.
+a.	Job design
+b.	Joint optimization
+c.	Coordination
+d.	Variety
+ANSWER:	b
+

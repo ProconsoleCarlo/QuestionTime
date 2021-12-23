@@ -1,0 +1,273 @@
+1.	The definition of "organization" is:
+a.	A goal-directed entity that has members who set goals and achieve them through strategic planning.
+b.	An entity with identifiable permanent boundaries.
+c.	A social entity that is goal-directed, has a deliberately-structured activity system, and a permeable boundary.
+d.	A business that performs work activities and contributes to its society by employing people.
+ANSWER:	c
+
+2.	The key element of an organization is it's
+a.	buildings and policies.
+b.	people and their relationships.
+c.	profits.
+d.	facilities location.
+ANSWER:	b
+
+3.	Financial resources for nonprofit organizations usually come from all of the following except
+a.	the sale of competitor's products or services.
+b.	grants.
+c.	government appropriations.
+d.	donations.
+ANSWER:	a
+
+4.	Non-profit organization managers deal with many diverse shareholders and must market their services to all of the following except
+a.	donors.
+b.	shareholders.
+c.	clients.
+d.	volunteers.
+ANSWER:	b
+
+5.	The importance of organizations includes all of the following concepts except:
+a.	Create value for owners, customers, and employees.
+b.	Establishing important relationships with the government.
+c.	Facilitate innovation.
+d.	Bring together resources for achieving desired goals and outcomes.
+ANSWER:	b
+
+6.	Organizations exist to do which of the following?
+a.	Bring in a profit.
+b.	Develop advanced manufacturing and information technologies.
+c.	Challenge diversity, ethics, and the motivation and coordination of employees.
+d.	Facilitate innovation.
+ANSWER:	d
+
+7.	Organizations create a drive for _______ rather than reliance on standard products and outmoded ways of doing things.
+a.	profitability
+b.	fixed structures
+c.	innovation
+d.	developing change
+ANSWER:	c
+
+8.	An open system:
+a.	Means that the financial books and records are shared with employees.
+b.	Exports resources to the environment.
+c.	Has all the energy it needs within itself.
+d.	Was the basis for early management concepts such as scientific management.
+ANSWER:	b
+
+9.	The organization should be viewed as a system which is a set of interrelated elements that:
+a.	Acquires inputs, transforms them, and discharges outputs.
+b.	Is independent from the environment.
+c.	Should be sealed off from the environment.
+d.	Focuses primarily on internal efficiency.
+ANSWER:	a
+
+10.	The surgery department in a hospital would belong to which subsystem:
+a.	Production.
+b.	Boundary spanning.
+c.	Maintenance.
+d.	Management.
+ANSWER:	a
+
+11.	Organizational subsystems include which of the following:
+a.	Boundary subsystems responsible for exchanges with the external environment.
+b.	Maintenance subsystems responsible for keeping production facilities in operating order.
+c.	Human subsystems that serve as employees.
+d.	Technical subsystems that become the basis for information processing.
+ANSWER:	a
+
+12.	The technical core refers to:
+a.	The computer hardware that runs information processing in the organization.
+b.	The people who do the basic work of the organization, producing product and service outputs.
+c.	Administrators who run the organization.
+d.	Top management that has been promoted from within and thereby knows the inner core of organizational processes.
+ANSWER:	b
+
+13.	Mintzberg's five basic parts of an organization include all except which of the following:
+a.	Administrative support.
+b.	Middle management.
+c.	Technical support.
+d.	Computer infrastructure.
+ANSWER:	d
+
+14.	An open system and its subsystem are characterized by:
+a.	A transformation process that involves production, maintenance, adaptation, and management.
+b.	An input selection that is known for being so accurate that it can be closed.
+c.	Output criteria that are subjective.
+d.	Boundary spanning that connects employees to products to organizational subsystems.
+ANSWER:	a
+
+15.	Functions such as human resources, organizational development, the employee cafeteria, and maintenance staff refer to which of the following five basic parts of an organization:
+a.	Technical support.
+b.	Human infrastructure.
+c.	Administrative support.
+d.	None of the above.
+ANSWER:	c
+
+16.	_______ is the subsystem responsible for directing and coordinating other parts of the organization.
+a.	The technical core
+b.	Management
+c.	Human Resources
+d.	Accounting
+ANSWER:	b
+
+17.	Contextual dimensions:
+a.	Represent only the external environment.
+b.	Are centralization and personnel ratios.
+c.	Represent only the organization characteristics.
+d.	Include size and environment.
+ANSWER:	d
+
+18.	Which of the following provides labels to describe the internal characteristics of an organization?
+a.	Contextual dimensions.
+b.	Contingency analysis.
+c.	Organizational dynamics.
+d.	Structural dimensions.
+ANSWER:	d
+
+19.	The 385-page book that McDonald's uses to describe all rules and procedures in each of its stores best represents which of the following dimensions:
+a.	Learning theory.
+b.	Sequential interdependence.
+c.	Formalization.
+d.	Specialization.
+ANSWER:	c
+
+20.	The degree to which organizational tasks are subdivided into separate jobs is referred to as
+a.	formalization.
+b.	specialization.
+c.	professionalism.
+d.	centralization.
+ANSWER:	b
+
+21.	_______ refer to the deployment of people to various functions and departments.
+a.	Professionalism
+b.	Specialization
+c.	Personnel ratios
+d.	Hierarchy of authority
+ANSWER:	c
+
+22.	Which of the following concerns how the organization actually produces the products and services it provides for customers and includes flexible manufacturing, advanced information systems, and the Internet?
+a.	Size of the organization.
+b.	Organizational technology.
+c.	Organizational goals.
+d.	Organizational culture.
+ANSWER:	b
+
+23.	Which of the following is a contextual, rather than a structural dimension of an organization?
+a.	Labor force.
+b.	Culture.
+c.	Professionalism.
+d.	Centralization.
+ANSWER:	b
+
+24.	Compare W.L. Gore Associates with Wal-Mart (In Practice activity). These two companies illustrate the concept that:
+a.	Larger organizations need to have tight controls at the top.
+b.	Successful organizations can have very different strategies and goal emphases.
+c.	A moderate to high level of formalization is crucial to an organization's success.
+d.	Centralization is necessary in organizations when they face high levels of competition.
+ANSWER:	b
+
+25.	_______ is the degree to which an organization achieves its goals.
+a.	Effectiveness
+b.	Efficiency
+c.	Organizational strategy
+d.	Stakeholder profitability
+ANSWER:	a
+
+26.	Which of the following integrates diverse organizational activities by looking at various organizational stakeholders and what they want from the organization?
+a.	Effectiveness.
+b.	Organizational culture.
+c.	Efficiency.
+d.	Stakeholder approach.
+ANSWER:	d
+
+27.	Scientific management, pioneered by Frederick Taylor, claimed that decisions about organizations and job design should be based on:
+a.	Precise, scientific procedures after careful study of individual situations.
+b.	The insights of practitioners.
+c.	Leadership, motivation, and human resource management.
+d.	Management theory.
+ANSWER:	a
+
+28.	Scientific management was:
+a.	Pioneered by Henri Fayol.
+b.	An outgrowth of the Hawthorne studies which found that people performed best in an environment of clearly specified, narrow job task.
+c.	Focused on effectiveness rather than efficiency.
+d.	Successful at increasing output, in part through the use of incentive systems.
+ANSWER:	d
+
+29.	_______ emphasized designing and managing organization on an impersonal, rational basis through such elements as clearly defined authority and responsibility, formal record keeping, and uniform application of standard rules.
+a.	Hawthorne Studies
+b.	Scientific management
+c.	Bureaucratic organizations
+d.	Contingency theory
+ANSWER:	c
+
+30.	Interpretations of _______ concluded that positive treatment of employees improved their motivation and productivity.
+a.	bureaucratic organizations
+b.	stakeholder approaches
+c.	scientific management
+d.	Hawthorne Studies
+ANSWER:	d
+
+31.	Contingency means that:
+a.	Organizations should be structured loosely.
+b.	Management structure is determined by the era or times.
+c.	One thing depends on other things, such as structure depending on environment.
+d.	The key contingent of workers should be college graduates.
+ANSWER:	c
+
+32.	John Black, a management consultant, successfully implemented and MBO program on his first consulting job. He now recommends MBO to all his clients. In so doing, our text would say the main point is that he is ignoring:
+a.	The latest techniques for solving problems.
+b.	The principles of contingency theory.
+c.	The external environment of the organization.
+d.	The internal environment of the organization.
+ANSWER:	b
+
+33.	The learning organization:
+a.	Places high value on problem solving.
+b.	Emphasizes training as the essential value.
+c.	Engages people in sessions focused on finding maximum organizational efficiency.
+d.	Is most effective when the organization's environment is recognized as stable.
+ANSWER:	a
+
+34.	In today's world, savvy managers recognize:
+a.	They cannot measure, predict or control their environment.
+b.	Centralized structures help them to cope with organizational demands.
+c.	They do the "thought" work while employees perform their labor.
+d.	Leadership is based on thoroughness of written documents.
+ANSWER:	a
+
+35.	Which of the following is not an element of organizational design?
+a.	Structure.
+b.	Systems.
+c.	Technological advances.
+d.	Tasks.
+ANSWER:	c
+
+36.	In a learning organization, the _______ encourages openness, equality, continuous improvement, and change.
+a.	tasks
+b.	culture
+c.	strategy
+d.	structure
+ANSWER:	b
+
+37.	The study of organization behavior is:
+a.	Different from the study of organization theory because of a different focus.
+b.	The same thing as the study of organization theory.
+c.	An "umbrella" that encompasses the study of organization theory.
+d.	A subset of organization theory.
+ANSWER:	a
+
+38.	The study of organization behavior is:
+a.	The same as the study of organization theory.
+b.	A macro analysis of the whole organization.
+c.	Focus on people, structure, and environment.
+d.	A micro approach focusing on the individual.
+ANSWER:	d
+
+39.	The primary level of analysis in organization theory is on the __________, with some concern for the __________ and the __________.
+a.	departments, employees, environment
+b.	organization, environment, departments
+c.	environment, organization, departments
+d.	organization, environment, individual
+ANSWER:	b
+

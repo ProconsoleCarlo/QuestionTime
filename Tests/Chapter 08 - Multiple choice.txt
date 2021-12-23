@@ -1,0 +1,203 @@
+1.	_______ is typically concerned with well-defined problems about operational issues and past events.
+a.	Top management
+b.	First-line management
+c.	Employees
+d.	Middle-management
+ANSWER:	b
+
+2.	The use of huge databases that combine all of a company's data and allow users to access the data directly, create reports, and obtain responses to what-if questions is referred to as:
+a.	data mining.
+b.	data processing.
+c.	transaction processing systems.
+d.	data warehousing.
+ANSWER:	d
+
+3.	______ software uses sophisticated decision-making processes to search raw data for patterns and relationships that may be significant.
+a.	Data warehousing
+b.	Data mining
+c.	Analytical
+d.	Decision support system
+ANSWER:	b
+
+4.	The systems that automate the organization's routine, day-to-day business transactions such as data from sales or purchases from suppliers are called:
+a.	transaction processing systems.
+b.	automated analysis systems.
+c.	inventory control systems.
+d.	decision support systems.
+ANSWER:	a
+
+5.	The initial applications of information technology by organizations was in the area of:
+a.	decision support systems.
+b.	transaction processing systems.
+c.	management information systems.
+d.	enterprise resource planning.
+ANSWER:	b
+
+6.	The evolution of organizational applications of information technology move from first-line to the top as follows:
+a.	business resource, networking, transaction processing systems.
+b.	management information systems, business resource and operations.
+c.	operations, business resource, strategic weapon.
+d.	work flow redesign, transaction processing systems, decision support systems.
+ANSWER:	c
+
+7.	What is the highest level of application of use of information technology?
+a.	Internal control for profitability.
+b.	External application for new business forms.
+c.	Strategic weapon.
+d.	Networking.
+ANSWER:	c
+
+8.	Which of the following is an interactive information system that is designed to help managers at all levels make decisions through integrated databases in which a series of "what if" questions can be posed?
+a.	Decision support systems.
+b.	Transaction processing systems.
+c.	Management information systems.
+d.	Enterprise resourceplanning.
+ANSWER:	a
+
+9.	Which of the following provides mid-level managers with reports that summarize data and support day-to-day decision making?
+a.	Executive information systems.
+b.	Decision support systems.
+c.	Information reporting systems.
+d.	Feedback control systems.
+ANSWER:	c
+
+10.	_________ are typically based on software that can convert large amounts of complex data into  pertinent information and provide that information to top managers in a timely fashion.
+a.	DSS
+b.	EIS
+c.	Information reporting systems
+d.	TPS
+ANSWER:	b
+
+11.	Which of the following is not a step of a simplified feedback control model?
+a.	Take corrective action as needed.
+b.	Establish standards of performance.
+c.	Measure actual performance and compare to standards.
+d.	Set organizational mission and vision.
+ANSWER:	d
+
+12.	________ are defined as the formal routines, reports, and procedures that use information to maintain or alter patterns in organization activities.
+a.	Management control systems
+b.	MIS
+c.	DSS
+d.	TPS
+ANSWER:	a
+
+13.	Which of the following is not a management control system?
+a.	Statistical reports.
+b.	Quality control system.
+c.	Discipline policies.
+d.	Reward system.
+ANSWER:	c
+
+14.	The process of continually measuring products, services, and practices against tough competitors or other organizations recognized as industry leaders is referred to as:
+a.	balanced scorecard.
+b.	benchmarking.
+c.	Six Sigma.
+d.	ERP.
+ANSWER:	b
+
+15.	_______ is a highly ambitious quality standard that specifies a goal of no more than 3.4 defects per million parts.
+a.	Benchmarking
+b.	Balanced scorecard
+c.	Knowledge management
+d.	Six Sigma
+ANSWER:	d
+
+16.	Six Sigma is based on a methodology referred to as _______, which provides a structured way for organizations to approach and solve problems.
+a.	DMAIC
+b.	data warehousing
+c.	EIS
+d.	benchmarking
+ANSWER:	a
+
+17.	________ specify standards for employee participation, teamwork, and problem solving.
+a.	Budgets
+b.	Quality control systems
+c.	Reward systems
+d.	Statistical reports
+ANSWER:	b
+
+18.	The _______ is a comprehensive management control system that balances traditional financial measures with operational measures relating to a company's critical success factors.
+a.	benchmarking
+b.	balanced scorecard
+c.	management control system
+d.	Six Sigma
+ANSWER:	b
+
+19.	Which of the following is not a perspective of the balanced scorecard?
+a.	Financial performance.
+b.	Employee performance.
+c.	Customer service.
+d.	The organization's capacity for learning and growth.
+ANSWER:	d
+
+20.	The _______ helps managers focus on the key strategic measures that define the success of a particular organization over time and communicate them clearly through the organization.
+a.	networking
+b.	data warehousing
+c.	EDI
+d.	balanced scorecard
+ANSWER:	d
+
+21.	Access to management information systems and executive information systems are typically controlled by placing them on the:
+a.	Internet.
+c.	individual PCs of authorized managers.
+b.	intranet.
+d.	extranet.
+ANSWER:	b
+
+22.	The form of corporate networking which is a private internal network that uses the infrastructure of the World Wide Web, but is cordoned off from the public, is called:
+a.	WebNet.
+b.	Intranet.
+c.	InterWeb.
+d.	CorpNet.
+ANSWER:	b
+
+23.	Explicit knowledge includes:
+a.	investing time at meetings in the sharing of stories and learning of histories.
+b.	a strong "feel" for the corporate culture.
+c.	development of a electronic document system that codifies, stores, disseminates, and allows reuse of knowledge.
+d.	channeling individual expertise to provide creative advice on problem solving.
+ANSWER:	c
+
+24.	_______ is the efforts to systematically find, organize, and make available a company's intellectual capital and to foster a culture of continuous learning and knowledge sharing so that organizational activities build on what is already known.
+a.	ERP
+b.	Six Sigma
+c.	Knowledge management
+d.	Benchmarking
+ANSWER:	c
+
+25.	An important aspect of integrated enterprise is:
+a.	Six Sigma.
+b.	networking.
+c.	supply chain management.
+d.	the intranet.
+ANSWER:	c
+
+26.	_______ can create a level of cooperation not previously imaginable if managers approach the practice with an attitude of trust and partnership.
+a.	Enterprise integration
+b.	Networking
+c.	Knowledge management
+d.	TPS
+ANSWER:	a
+
+27.	All of the following are basic strategies for setting up an Internet operation except:
+a.	in-house divisions.
+b.	strategic partnerships.
+c.	spin-off companies.
+d.	franchising.
+ANSWER:	d
+
+28.	The impact of information technology on organization design includes:
+a.	larger size.
+b.	more decentralized organization structures.
+c.	technology is a substitute for professional staff, thereby decreasing the need for them.
+d.	decreased levels of employee participation.
+ANSWER:	b
+
+29.	With a modular structure, most activities are:
+a.	outsourced.
+b.	eliminated.
+c.	performed by in-house professionals.
+d.	simplified.
+ANSWER:	a
+

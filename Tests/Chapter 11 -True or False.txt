@@ -1,0 +1,72 @@
+1.	Incremental change occurs through the established structure and management process, whereas radical change involves the creation of a new structure and new management processes.
+ANSWER:	True
+
+2.	Changing technology means to change the organization's production process rather than the product itself.
+ANSWER:	True
+
+3.	Structure and system changes are usually bottom-up, mandated by lower management, whereas product and technology changes may often come from the top down.
+ANSWER:	False
+
+4.	The four types of change are independent of each other, or in other words, a change in one has no effect on another.
+ANSWER:	False
+
+5.	Ideas are generally not seriously considered unless there is a perceived need for change.
+ANSWER:	True
+
+6.	The need element in the change process always precedes the idea element.
+ANSWER:	False
+
+7.	Ambidextrous organizations have processes that allow for employment of skilled workers on the one hand, and unskilled workers on the other.
+ANSWER:	False
+
+8.	A switching structure is one that switches back and forth as needed between product and matrix in form.
+ANSWER:	False
+
+9.	The switching structure refers to production lines that alternate with ease from daytime production to 24-hour production.
+ANSWER:	False
+
+10.	Venture teams are large groups of employees dedicated to coming up with new ideas for improved organizational structure.
+ANSWER:	False
+
+11.	A new venture fund provides financial resources for employees to develop new ideas, products, or businesses.
+ANSWER:	True
+
+12.	Idea champions are usually one of two types--either a technical/product champion who is devoted to ideas for technological innovation, or a management champion who sponsors ideas to shield and promote them.
+ANSWER:	True
+
+13.	Only 12 percent of all new products actually undertaken eventually earn an economic success.
+ANSWER:	True
+
+14.	The horizontal coordination model is used primarily for innovations in the administrative core.
+ANSWER:	False
+
+15.	Horizontal coordinations means that each department involved with new products has excellent linkage with relevant sectors in the external environment.
+ANSWER:	False
+
+16.	Many new product development teams today are global teams because organizations have to develop products that will meet diverse needs of consumers all over the world.
+ANSWER:	True
+
+17.	Administrative innovation can be extremely difficult in organizations that have an organic technical core.
+ANSWER:	True
+
+18.	In the dual-core approach, change is facilitated in the administrative core by a mechanistic structure and in the technical core by an organic structure.
+ANSWER:	True
+
+19.	Employee inputs may be sought, but top managers have the responsibility to direct the change.
+ANSWER:	True
+
+20.	Corporate downsizing is an example of top-down structure change.
+ANSWER:	True
+
+21.	Reengineering refers to the redesign of products by engineering and marketing in order to meet new market swings.
+ANSWER:	False
+
+22.	O.D. uses knowledge and techniques from the behavioral sciences.
+ANSWER:	True
+
+23.	Some management experts argue that to survive the upheaval of the early twenty-first century, managers must turn their organizations into change leaders by using the present to actually create the future. 
+ANSWER:	True
+
+24.	Leaders who have taken their companies through major successful transformations often have one thing in common: they focus on formulating and articulating a compelling vision and strategy that will guide the change process.
+ANSWER:	True
+

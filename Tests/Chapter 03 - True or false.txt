@@ -1,0 +1,57 @@
+1.	The organization chart is the visual representation of a whole set of underlying activities and processes in an organization.
+ANSWER:	True
+
+2.	Horizontal linkages are used to coordinate activities between the top and bottom of an organization and are designed primarily for control of the organization, whereas vertical linkages refers to the amount of communication and coordinate across organizational departments.
+ANSWER:	False
+
+3.	Rules and plans are lower on the ladder of mechanisms for vertical linkage than is adding positions to the hierarchy.
+ANSWER:	True
+
+4.	A task force is located in one department but has the responsibility for communicating and achieving coordination with another department.
+ANSWER:	False
+
+5.	Integrator roles require excellent people skills.
+ANSWER:	True
+
+6.	It would be logical for a full-time integrator to have no direct subordinates.
+ANSWER:	True
+
+7.	A full-time integrator such as a project manager has the various functional managers--finance, engineering, marketing--reporting to him or her.
+ANSWER:	False
+
+8.	Project teams can be thought of as permanent task forces.
+ANSWER:	True
+
+9.	Grouping by output means that people are organized by similar functions or work processes, with similar knowledge and skills.
+ANSWER:	False
+
+10.	Functional grouping places employees together who perform similar work processes and typically have similar knowledge and skills.
+ANSWER:	True
+
+11.	A weakness of the functional structure is that it results in a slow response time to environmental change.
+ANSWER:	True
+
+12.	A strength of the divisional structure compared to the functional structure is that it tends to decentralize decision making.
+ANSWER:	True
+
+13.	Divisional structure may be organized by product, services, major projects or programs, or profit centers.
+ANSWER:	True
+
+14.	An advantage of the divisional structure is that coordination of functional matters relative to any one given product is maximized.
+ANSWER:	True
+
+15.	A horizontal structure is characterized by coordination around geographical areas.
+ANSWER:	False
+
+16.	Pressure for innovation is sufficient cause for adopting the matrix structure.
+ANSWER:	False
+
+17.	There are two variations of matrix structure: the functional matrix and the divisional matrix.
+ANSWER:	False
+
+18.	The horizontal structure organizes employees around core processes.
+ANSWER:	True
+
+19.	Most companies combine characteristics of multiple structures to take advantage of the strengths and avoid some of the weaknesses.
+ANSWER:	True
+

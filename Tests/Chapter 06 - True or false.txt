@@ -1,0 +1,81 @@
+1.	Building a global presence expands an organization's scale of operations, enabling it to realize economies of scale.
+ANSWER:	True
+
+2.	Having a presence in multiple countries provides marketing power and synergy compared to the same size firm that has presence in fewer countries.
+ANSWER:	True
+
+3.	The second stage of international evolution, "International Stage", will usually be structured with a domestic structure with an export department.
+ANSWER:	False
+
+4.	A company typically shifts its interest from domestic activity to exporting in the 3rd stage (multinational) of international development.
+ANSWER:	False
+
+5.	The international stage of international development means that exports are taken seriously and that the company deals with the competitive issues of each country separately.
+ANSWER:	True
+
+6.	A joint venture is a separate entity created with two or more active firms as sponsors.
+ANSWER:	True
+
+7.	Managers and organizations all over the world are very reluctant to cooperate to achieve competitive advantage on a global scale.
+ANSWER:	False
+
+8.	The globalization strategy means that product design, manufacturing, and marketing strategy are standardized throughout the world, whereas a multidomestic strategy means that competition in each country is handled independently of competition in other countries.
+ANSWER:	True
+
+9.	In parts of Mexico, laundry detergent is used to wash dishes, not clothes, pointing out the need for a multidomestic strategy.
+ANSWER:	True
+
+10.	In many instances, companies will need to respond to both global and local opportunities simultaneously, in which case the global matrix structure can be used.
+ANSWER:	True
+
+11.	As companies begin to explore international opportunities, they typically start with an international division that grows into an export department.
+ANSWER:	False
+
+12.	Functional structures are found more frequently in a worldwide business than in a domestic business.
+ANSWER:	False
+
+13.	With a global geographic division structure, each division's manager is responsible for planning, organizing, and controlling all functions for the production and distribution of its products for any market around the world.
+ANSWER:	False
+
+14.	The product-based structure works best when a division handles products that are technologically similar and can be standardized for marketing around the world.
+ANSWER:	True
+
+15.	The global geographic structure divides the world into geographical regions, with each geographical division reporting to the CEO.
+ANSWER:	True
+
+16.	To meet new competitive threats, many manufacturing firms are emphasizing the ability to customize their products to meet specific needs, which requires a greater emphasis on global responsiveness.
+ANSWER:	False
+
+17.	The global product division structure works best when pressure for decision-making balances the interests of both product standardization and geographical localization and when coordination to share resources is important.
+ANSWER:	False
+
+18.	Hybrid structures are typical in highly volatile environments.
+ANSWER:	True
+
+19.	A growing number of global consumers are rejecting the notion of homogenized products and services, calling for greater response to local preferences.
+ANSWER:	True
+
+20.	The "not-invented-here" syndrome makes some managers reluctant to tap into the know-how and expertise of other units.
+ANSWER:	True
+
+21.	A transnational team is a work group made up of multinational members whose activities span multiple countries.
+ANSWER:	True
+
+22.	Functional managers coordinate across functions, whereas country managers coordinate among countries.
+ANSWER:	False
+
+23.	Network coordinators would enable a manufacturing organization to provide knowledge and integrated solutions across multiple business, divisions, and countries for a large customer.
+ANSWER:	True
+
+24.	High uncertainty avoidance means that people accept inequality in power among institutions, organizations, and people.
+ANSWER:	False
+
+25.	Low uncertainty avoidance means that people have a high tolerance for the unstructured, the unclear, and the unpredictable.
+ANSWER:	True
+
+26.	The transnational model reflects the ultimate in both organizational complexity, with many diverse units, and organizational coordination, with mechanisms for integrating the varied parts.
+ANSWER:	True
+
+27.	The management philosophy of transnational model is based on interdependence rather than either full divisional independence or total dependence of these units on headquarters for decision making and control.
+ANSWER:	True
+

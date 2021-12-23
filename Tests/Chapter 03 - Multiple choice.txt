@@ -1,0 +1,223 @@
+1.	We can accurately conclude that:
+REFERENCE:	Test Bank Organization Chart 3.1.png
+a.	there should be no assistant manger.
+b.	the company has a divisional structure.
+c.	the company has a functional structure.
+d.	the general manager has a span of control of five.
+ANSWER:	c
+
+2.	The structure would bring strengths such as:
+REFERENCE:	Test Bank Organization Chart 3.1.png
+a.	product responsibility is clear and simple.
+b.	economies of scale.
+c.	suitability for an unstable environment.
+d.	determining total cost of any given product is a straightforward hierarchical matter.
+ANSWER:	b
+
+3.	This structure:
+REFERENCE:	Test Bank Organization Chart 3.1.png
+a.	has caused high levels of bureaucracy.
+b.	should be changed immediately to a horizontal grouping if the company is growing.
+c.	would have increased the span of control for the General Manager when the Assistant Manager position was added.
+d.	could have a weakness of slow response to environmental changes that require coordination across functional areas.
+ANSWER:	d
+
+4.	Which of the following is correct?
+REFERENCE:	Test Bank Organization Chart 3.2.png
+a.	To lower fixed costs, this organization should change to a divisional structure with customer account executives heading each major division.
+b.	To improve the communications flow, it is recommended that this company should add a full-time integrator between each account executive and operations head.
+c.	It has lost the advantages of economies of scale within the operations departments.
+d.	The customer account executives can be considered to be integrators.
+ANSWER:	d
+
+5.	Which of the following most applies?
+REFERENCE:	Test Bank Organization Chart 3.2.png
+a.	If well-managed, achieves coordination both within and between customer accounts.
+b.	Efficiency and economy of scale are lost in the functional operations departments.
+c.	Eliminates in-depth artistic and technical competence in operations.
+d.	Balanced joint formal authority between functional and customer account heads ensures decisions not being "bumped up" to the president.
+ANSWER:	a
+
+6.	Which of the following is correct?
+REFERENCE:	Test Bank Organization Chart 3.2.png
+a.	The structure is divisional.
+b.	The structure is primarily functional.
+c.	The customer accounts section should be dissolved and made to report to marketing.
+d.	Hierarchical referral is the best means for coordination in this organization.
+ANSWER:	b
+
+7.	Which of the following is not a component in the definition of organization structure?
+a.	It includes the design systems to ensure effective communication, coordination, and integration of effort across each position.
+b.	It identifies the tasks and processes for each position within the organization.
+c.	It identifies the grouping together of individuals into departments and of departments into the total organization.
+d.	It designates formal reporting relationships, including the number of levels in the hierarchy and the span of control of managers and supervisors.
+ANSWER:	b
+
+8.	Which of the following is true concerning information in an organization?
+a.	Information should flow horizontally, but not vertically.
+b.	Information should flow vertically, but not horizontally.
+c.	Structure should fit the information requirements of the organization.
+d.	It is not possible to give people too much information.
+ANSWER:	c
+
+9.	_______ are used to coordinate activities between the top and bottom of an organization and are designed primarily for control of the organization.
+a.	Vertical linkages
+b.	Functional groupings
+c.	Horizontal linkages
+d.	Divisional groupings
+ANSWER:	a
+
+10.	When problems and decisions are funneled to top levels of the hierarchy for resolution, _______ is being used.
+a.	centralized decision making
+b.	functional structure
+c.	horizontal linkage
+d.	full-time integration
+ANSWER:	a
+
+11.	Which of the following is not a structural device used to achieve vertical linkages?
+a.	Rules and plans.
+b.	Task forces.
+c.	Vertical information systems.
+d.	Hierarchical referral.
+ANSWER:	b
+
+12.	Horizontal linkage mechanisms:
+a.	cause employees to experience the confusion of not having unity of command.
+b.	must be added to a divisional structure to coordinate across functional areas.
+c.	should be avoided because they confuse vertical linkages.
+d.	enable people in different functional departments to exchange information.
+ANSWER:	d
+
+13.	Which of the following mechanisms does not provide an improved degree of horizontal coordination and control?
+a.	Information systems.
+b.	Task forces.
+c.	Hierarchical referral.
+d.	Teams.
+ANSWER:	c
+
+14.	A liaison role exists when:
+a.	there is direct contact between managers affected by a problem.
+b.	there is an exchange of paperwork about a problem.
+c.	a temporary committee composed of representatives form each department affected by a problem is formed.
+d.	a person located in one department had the responsibility for communicating and achieving coordination with another department.
+ANSWER:	d
+
+15.	A full-time integrator:
+a.	improves vertical linkage of the organization.
+b.	has a title such as product manager.
+c.	reports to one of the functional departments being coordinated.
+d.	has the responsibility of coordinating only one department.
+ANSWER:	b
+
+16.	If Brian Ramsaur is the Gaterade product manager at Fencelink, then he is:
+a.	a liaison.
+b.	a full-time integrator.
+c.	head of a task force.
+d.	in charge of all aspects of its production and sales, with full line authority.
+ANSWER:	b
+
+17.	Which of the following terms would best be linked with "full-time integrator"?
+a.	Brand manager.
+b.	Task force.
+c.	Direct contact.
+d.	Vertical control.
+ANSWER:	a
+
+18.	Which of the following is made up of organizationally or geographically dispersed members who are linked primarily through advanced information and communications technologies?
+a.	Virtual teams.
+b.	Task forces.
+c.	Full-time integrators.
+d.	Information systems.
+ANSWER:	a
+
+19.	Collette Ryan is the vice president of marketing for her company. Other officers in the company include the vice presidents of engineering, production, finance, and human resource management. The structure of this small company is likely to be:
+a.	product.
+b.	matrix.
+c.	functional.
+d.	hybrid.
+ANSWER:	c
+
+20.	Which of the following is true of a functional structure?
+a.	It reacts quickly to environmental changes.
+b.	It diminishes economies of scale compared to the divisional structure.
+c.	It often results in hierarchy overload.
+d.	It cannot work in small organizations.
+ANSWER:	c
+
+21.	What is likely to be the result if a domestic company that manufactures four different types of products changes from a functional structure to a divisional structure?
+a.	Lower fixed costs.
+b.	Better coordination within a product area between different functional areas.
+c.	More technical development within functional areas.
+d.	More centralized decision making.
+ANSWER:	b
+
+22.	A company that wishes to maintain the basic functional structure, but is having difficulty coordinating across departments because of growth:
+a.	should install horizontal linkages.
+b.	should realize that the functional structure cannot work and abandon it for a matrix.
+c.	may find it necessary to abolish liaison roles.
+d.	can profit most by adding more functional departments.
+ANSWER:	a
+
+23.	The product or divisional structure:
+a.	is not suited to fast change in an unstable environment.
+b.	centralizes decision making.
+c.	facilitates integration and standardization across product lines.
+d.	allows units to adapt to differences in products, regions, and clients.
+ANSWER:	d
+
+24.	Potential weaknesses of the horizontal structure include:
+a.	it is considered inflexible and slow in response to rapid changes in customer needs.
+b.	determining core processes to organize around is often difficult.
+c.	there is a failure to promote teamwork.
+d.	views of organizational goals by employees focuses into too narrow of a perspective.
+ANSWER:	b
+
+25.	The matrix structure is the correct structure when three conditions are met. Which of the following is one of these three conditions?
+a.	Pressure exists to share scarce resources across product lines.
+b.	Technical quality is not very important.
+c.	The environmental domain of the organization is simple.
+d.	The environmental domain of the organization is certain and stable.
+ANSWER:	a
+
+26.	The matrix structure:
+a.	always keeps dual-authority relationships.
+b.	should be considered only in a stable environment.
+c.	is designed for use within a bureaucracy.
+d.	is known for its quality of centralization of key decisions for organizational control.
+ANSWER:	a
+
+27.	In a _______ matrix, the project/product managers have primary authority and functional managers simply assign technical personnel to projects and provide advisory expertise as needed.
+a.	functional
+b.	virtual
+c.	divisional
+d.	product
+ANSWER:	d
+
+28.	All of the following are characteristics of a horizontal structure except:
+a.	self-directed teams are the basis of the organizational design and performance.
+b.	people on the team are given the skills, tools, motivation, and authority to make decisions central to the team's performance.
+c.	the culture is one that is closed, untrustworthy, and non-collaborative, focused on individual accomplishments.
+d.	teams have the freedom to think creatively and respond flexibly to new challenges that arise.
+ANSWER:	c
+
+29.	In the horizontal structure, it is said that:
+a.	the process owner is responsible for coordinating the core process in its entirety.
+b.	because team members become recognized experts in a single area, cross-training that characterizes other organizational forms is limited.
+c.	boundaries between departments are clearly defined to ensure functional expertise.
+d.	if the organization has been rooted in strict vertical, hierarchical structure, it is ready for immediate and rapid implementation of the horizontal structure.
+ANSWER:	a
+
+30.	Two types of hybrid structures are common today. The approaches combine:
+a.	product and matrix structures; product and horizontal structures.
+b.	functional and divisional structures; functional and horizontal structures.
+c.	marketing and sales; marketing and logistics.
+d.	horizontal and teams; vertical and authority.
+ANSWER:	b
+
+31.	All of the following, except _______, are symptoms of structural deficiency.
+a.	decision making is delayed or lacking quality
+b.	the organization does not respond innovatively to a changing environment
+c.	too much conflict is evident
+d.	employees lack motivation
+ANSWER:	d
+

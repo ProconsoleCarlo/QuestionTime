@@ -1,0 +1,75 @@
+1.	As the complexity of computer-based information technology systems has increased, applications have grown to support effective top management control and decision making about complex and uncertain problems.
+ANSWER:	True
+
+2.	The purpose of data warehousing is to combine all of a company's data and allows users to access the data directly, create reports, and obtain responses to what-if questions.
+ANSWER:	True
+
+3.	EIS collects data from transactions such as sales, purchases from suppliers, and inventory changes and stores them in a database.
+ANSWER:	False
+
+4.	Data mining software is designed to print out data from the government sector, particularly from census reports.
+ANSWER:	False
+
+5.	Management information systems facilitate rapid and effective decision making.
+ANSWER:	True
+
+6.	Information reporting systems are designed for non-managerial and non-supervisory personnel to have access to basic information on the status of product orders.
+ANSWER:	False
+
+7.	Transaction processing systems facilitates decision making at the highest levels of management.
+ANSWER:	False
+
+8.	The MIS is supported by the organization's transaction processing systems and by organizational databases.
+ANSWER:	True
+
+9.	Effective control systems involve the use of feedback to determine whether organizational performance meets established standards to help the organization attain its goals.
+ANSWER:	True
+
+10.	The formal routines, reports, and procedures that use information to maintain or alter patterns in organization activities are referred to as the balanced scorecard.
+ANSWER:	False
+
+11.	The statistical report is typically used to set targets for the organization's expenditures for the year and then report actual costs on a monthly or quarterly basis.
+ANSWER:	False
+
+12.	Managers use periodic statistical reports to evaluate and monitor nonfinancial performance, such as customer satisfaction, employee performance, or rate of staff turnover.
+ANSWER:	True
+
+13.	Managers use quality control systems to train employees in quality control methods, set targets for employee participation, establish benchmarking guidelines, and assign and measure Six Sigma goals.
+ANSWER:	True
+
+14.	The four systems of a management control system form an overall management control system that provides top management with control information about resource inputs, process efficiency, and output. This information allows them to create new strategies.
+ANSWER:	False
+
+15.	Six Sigma is a comprehensive management control system that balances traditional financial measures with operations measures relating to a company's critical success factors.
+ANSWER:	False
+
+16.	The components of the scorecard are designed in an integrative manner so that they reinforce one another and link short-term actions with long-term strategic goals.
+ANSWER:	True
+
+17.	Today, most companies with intranets have moved their management information systems, executive information systems, and so forth over to the intranet so they can easily be accessed by anyone who needs them.
+ANSWER:	True
+
+18.	Knowledge management can serve as the backbone for an entire organization by integrating and optimizing all the various business processes across the entire firm.
+ANSWER:	False
+
+19.	Enterprise resource planning can integrate key management processes by integrating order processing, product design, purchasing, inventory, distribution, and other areas of organizational activity.
+ANSWER:	True
+
+20.	Data and information are synonymous terms.
+ANSWER:	False
+
+21.	Tacit knowledge is formal, systematic knowledge that can be written down and passed on to others.
+ANSWER:	False
+
+22.	Approaches of explicit knowledge management include the use of dialogue and communities of practice.
+ANSWER:	False
+
+23.	An important aspect of the EIS is supply chain, which means managing the sequence of suppliers and purchasers covering all stages of processing from obtaining raw materials to distributing finished goods to consumers.
+ANSWER:	False
+
+24.	One effect of IT on organization design is overall growth in size from the hiring of technical personnel.
+ANSWER:	False
+
+25.	If an organization is structured as a network organization, it will actually forego many of the usual departments because of subcontracting.
+ANSWER:	True
+

@@ -1,0 +1,81 @@
+1.	The general environment includes sectors with which the organization interacts directly and which have a direct and regular impact on the organization's ability to achieve its goals.
+ANSWER:	False
+
+2.	The socio-cultural sector refers to city, state, federal laws and regulations, taxes, courts systems, and political processes that may be in an organization’s environment.
+ANSWER:	False
+
+3.	Generation Y refers to the sons and daughters of baby boomers who generally refuse to give their support to high cost brand name goods such as Nike.
+ANSWER:	True
+
+4.	The general environment includes those sectors that might not have a direct impact on the daily operations of a firm but will indirectly influence it.
+ANSWER:	True
+
+5.	The growing importance of the international sector means that the environment of all organizations is becoming extremely simple and extremely stable.
+ANSWER:	False
+
+6.	The environmental conditions of complexity and change create a greater need to gather information and to respond based on that information.
+ANSWER:	True
+
+7.	A hardware store would be in a complex environment.
+ANSWER:	False
+
+8.	The greatest uncertainty for an organization occurs in the simple, unstable environment.
+ANSWER:	False
+
+9.	Most e-commerce companies focus on a specific competitive niche and operate in simple but unstable environments as well.
+ANSWER:	True
+
+10.	As the complexity in the external environment increases, so does the number of positions and departments within the organization, which in turn increases internal complexity.
+ANSWER:	True
+
+11.	Rather than establish buffer departments, a newer approach in many organizations is to drop the buffers and expose the technical core to its uncertain environment.
+ANSWER:	True
+
+12.	The boundary-spanning role is designed to bring information to the organization about changes in the environment, but not to work in reverse to take information into the environment about the organization.
+ANSWER:	False
+
+13.	Boundary spanners can prevent the organization from stagnating by keeping top managers informed about environmental changes.
+ANSWER:	True
+
+14.	Tommy Hilfiger is known for its ability to stay in close contact with its environment and its customers.
+ANSWER:	True
+
+15.	Differentiation refers to differences in cognitive and emotional orientations among managers in different functional departments.
+ANSWER:	True
+
+16.	A company in a highly uncertain environment is more likely to need a formal integrator.
+ANSWER:	True
+
+17.	One outcome of high differentiation is that coordination between departments becomes more difficult until integrative devices are put in place.
+ANSWER:	True
+
+18.	When differentiation is high, integration should be high if the level of environmental uncertainty is high.
+ANSWER:	True
+
+19.	In rapidly changing environments, an organic structure is usually better.
+ANSWER:	True
+
+20.	If the external environment is stable, a mechanistic and formal organization can be successful.
+ANSWER:	True
+
+21.	In the organic organization, tasks are broken down into specialized, separate parts.
+ANSWER:	False
+
+22.	Row Furniture Company shifted to an organic system of management in order to produce more rapidly on its assembly line.
+ANSWER:	False
+
+23.	Planning guarantees successful coping with an unstable environment.
+ANSWER:	False
+
+24.	When organizations depend on the environment but strive to acquire control over resources to minimize their dependence, it is referred to as cooptation.
+ANSWER:	False
+
+25.	Once an organization relies on their others for valued resources, those other organizations can influence managerial decision making.
+ANSWER:	True
+
+26.	Transferring or exchanging executives offers a method of establishing favorable linkages with external organizations.
+ANSWER:	True
+
+27.	In addition to establishing favorable linkages to obtain resources, organizations also may try to change the environment.
+ANSWER:	True
+

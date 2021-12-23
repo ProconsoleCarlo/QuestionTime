@@ -1,0 +1,72 @@
+1.	The prevailing philosophy is that organizations consider themselves autonomous and separate, trying to outdo other companies so that they can grow and prosper.
+ANSWER:	False
+
+2.	The resource dependence perspective argues that while organizations may attempt to control environmental resources, they also try to maintain their independence.
+ANSWER:	True
+
+3.	Within business ecosystems managers learn to move beyond traditional responsibilities of corporate strategy and designing hierarchical structures and control systems.
+ANSWER:	True
+
+4.	The four perspectives of a framework of Interorganizational relationships include resource dependency, population ecology, collaborative network, and reengineering.
+ANSWER:	False
+
+5.	In population ecology theory, large dependent companies have power over small suppliers.
+ANSWER:	False
+
+6.	The major reasons for collaboration are sharing risks when entering new markets,mounting expensive new programs and reducing costs, and enhancing organizational profile in selected industries or technologies.
+ANSWER:	True
+
+7.	Collaboration is being practiced as companies join together to become more competitive as a block.
+ANSWER:	True
+
+8.	Many companies are changing from a partnership orientation mindset to a traditional adversarial.
+ANSWER:	False
+
+9.	In the positive view of partnerships, dependence on another company is seen to increase risk rather than reducing it.
+ANSWER:	False
+
+10.	The population ecology focuses on organizational diversity and adaptation within a population of organizations.
+ANSWER:	True
+
+11.	The population ecology perspective claims that large companies cannot adapt to meet a changing environment, so new companies emerge with the appropriate form and skills to serve new needs.
+ANSWER:	True
+
+12.	A niche is a domain of unique environmental resources and needs.
+ANSWER:	False
+
+13.	Variation, formation, and selection are the stages in the process of change in the environment.
+ANSWER:	False
+
+14.	Given their flexibility, specialists are able to reallocate resources internally to adapt to a changing environment, whereas generalists are not.
+ANSWER:	False
+
+15.	The population ecology perspective tells us that even institutionalized organizations like McDonald's are not permanent in the long run.
+ANSWER:	True
+
+16.	Generalists are generally more competitive than specialists in the narrow area in which their domains overlap.
+ANSWER:	False
+
+17.	Because of the diversity of products, services, and customers, generalists are able to reallocate resources internally to adapt to a changing environment, whereas specialists are not.
+ANSWER:	True
+
+18.	The institutional perspective explains why organizational diversity continuously increases with the appearance of new organizations filling niches left open by established companies.
+ANSWER:	False
+
+19.	Mimetic forces refer to the similarity that is brought between organizations from environmental influences such as governmental laws and legislative requirements.
+ANSWER:	False
+
+20.	Institutional similarity is the emergence of a common structure and approach among organizations in the same field.
+ANSWER:	True
+
+21.	The technical dimension of an organization is governed by expectations from the external environment.
+ANSWER:	False
+
+22.	Coercive forces mean that organizations change to achieve standards of professionalism.
+ANSWER:	False
+
+23.	Universities, consulting firms, and professional training institutions develop norms among professional managers.
+ANSWER:	True
+
+24.	The outcome of mechanisms of mimetic, coercive, or normative forces is that organizations become more heterogeneous, to reflect the natural diversity among managers and environments.
+ANSWER:	False
+

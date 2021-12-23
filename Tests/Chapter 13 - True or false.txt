@@ -1,0 +1,138 @@
+1.	Intergroup conflict requires three ingredients: group identification, observable group differences, and commitment.
+ANSWER:	False
+
+2.	Intergroup conflict can occur horizontally across departments, vertically between different levels, and between divisions or business units within the organization.
+ANSWER:	True	
+
+3.	Goal incompatibility can be a kind of "built-in" conflict between departments--especially marketing and manufacturing--that are faithfully attempting to accomplish their own missions.
+ANSWER:	True
+
+4.	A lack of trust within the organization can magnify natural differences and increase the potential for conflict among departments and with top managers.
+ANSWER:	True
+
+5.	Differentiation refers to the dependence of one unit on another for materials, resources, or information.
+ANSWER:	False
+
+6.	Limited resources refer to the dependence of one unit on another for materials, resources, or information.
+ANSWER:	False
+
+7.	Legitimate power is the authority to punish or recommend punishment, whereas expert power derives from a person's greater skill or knowledge about the tasks being performed.
+ANSWER:	False
+
+8.	The following statement is a correct usage of the terms "power" and "authority:" Some secretaries are likely to have a great deal of power in the organization even though they have little authority.
+ANSWER:	True
+
+9.	Formal authority is exercised downward along the hierarchy and is the same as vertical power and legitimate power.
+ANSWER:	True
+
+10.	Network centrality means that managers have access to information and people that are critical to the company's success, and thereby increase their power base.
+ANSWER:	True
+
+11.	The allocation of power to middle managers and staff is dangerous because it hinders those employees from being productive.
+ANSWER:	False
+
+12.	People at the bottom levels of an organization can never obtain more power than those in higher levels of the organization.
+ANSWER:	False
+
+13.	Horizontal power is not defined by the formal hierarchy or the organization chart.
+ANSWER:	True
+
+14.	Strategic contingencies are succession plans that are made within the corporation.
+ANSWER:	False
+
+15.	"He who has the gold makes the rules" refers to control of financial resources as a strategic contingency that influences horizontal power among departments.
+ANSWER:	True
+
+16.	Nonsubstitutability means that departmental power will be decreased with the loss of control over resources.
+ANSWER:	False
+
+17.	Departments can cope with critical uncertainties by obtaining prior information, prevention, and absorption.
+ANSWER:	True
+
+18.	One of the three primary domains of political activity is structural change.
+ANSWER:	True
+
+19.	Two of the four tactics suggested in our text for increasing management's power are: (1) Answer every challenge, and (2) Get those who can help you indebted to you.
+ANSWER:	False
+
+20.	Political activity is effective only when goals and needs are made explicit so the organization can respond.
+ANSWER:	True
+
+21.	The use of power should always be obvious in order to get tasks accomplished.
+ANSWER:	False
+
+22.	A win-win strategy means that both departments adopt a positive attitude and strive to resolve the conflict in a way that will benefit each other.
+ANSWER:	True
+
+23.	The advantage of intergroup consultation is that individuals become submerged in the values, attitudes, problems, and goals of the other department.
+ANSWER:	False
+
+24.	Nonprogrammed decisions are repetitive and well defined, and procedures exist for resolving the problem.
+ANSWER:	False
+
+25.	The bounded rationality approach is often associated with programmed decision processes.
+ANSWER:	False
+
+26.	Since programmed decisions are novel and poorly defined, and no procedure exists for solving them, a program must be devised using the garbage can method.
+ANSWER:	False
+
+27.	During the "specify decision objectives" step of the rational approach, the manager determines what performance outcomes should be achieved by a decision.
+ANSWER:	True
+
+28.	When decisions are nonprogrammed, ill-defined, and piling on top of one another, there is not reason for the individual manager to even attempt to use the steps in the rational approach.
+ANSWER:	False
+
+29.	The point of the rational approach is that managers use systematic procedures to arrive at good decisions.
+ANSWER:	True
+
+30.	In intuitive decision making, experience and judgment rather than sequential logic or explicit reasoning are used to make decisions.
+ANSWER:	True
+
+31.	Intuition should not be used in organizational decision making.
+ANSWER:	False
+
+32.	Management science is an excellent device for organizational decision making when problems are analyzable and when the variables can be identified and measured.
+ANSWER:	True
+
+33.	Management science, although cumbersome, cannot produce failures in decision making.
+ANSWER:	False
+
+34.	Management science sometimes produces decision failures, in part because quantitative data are not rich.
+ANSWER:	True
+
+35.	The Carnegie Model of organizational decision making was developed by Max Weber.
+ANSWER:	False
+
+36.	Problemistic search means that managers look around in the extended environment until they find the perfect solution to eventually resolve a problem.
+ANSWER:	False
+
+37.	The incremental model places major emphasis on political and social factors that influence decision outcomes.
+ANSWER:	False
+
+38.	A decision interrupt occurs when an organization must cycle back through a previous decision and try something new.
+ANSWER:	True
+
+39.	The selection phase of the incremental model is very clear that managers must analyze and choose on the basis of objective criteria in order to avoid any future delay that would interrupt implementation.
+ANSWER:	False
+
+40.	The Carnegie Model and the incremental model disagree with each other on how decisions are made—the former claiming that they are made through a political process and the latter claiming that they emerge over time following careful objective analysis.
+ANSWER:	False
+
+41.	Organized anarchy is characterized by rapid change and a collegial, nonbureaucratic environment.
+ANSWER:	True
+
+42.	In the garbage can model, potential solutions may be independent of problems, but are ideas brought to organizational consciousness because participants are attracted to those ideas for some logical or illogical reason.
+ANSWER:	True
+
+43.	Problem consensus and technical knowledge about the means to solve those problems are two characteristics of organizations that determine the use of decision approaches.
+ANSWER:	True
+
+44.	Problem consensus refers to understanding and agreement about how to solve problems and reach organizational goals.
+ANSWER:	False
+
+45.	High-velocity environments call for decision makers to depend heavily on one or two savvy, trusted colleagues as counselors, even though everyone is ultimately involved in the decision.
+ANSWER:	True
+
+46.	Managers block or distort negative information when they are personally responsible for a negative decision and consistency and persistence are valued in contemporary society are the two explanations why managers escalate commitment to a failing decision.
+ANSWER:	True
+

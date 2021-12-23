@@ -1,0 +1,69 @@
+1.	Nonprogrammed decisions are repetitive and well defined, and procedures exist for resolving the problem.
+ANSWER:	False
+
+2.	The bounded rationality approach is often associated with programmed decision processes.
+ANSWER:	False
+
+3.	Since programmed decisions are novel and poorly defined, and no procedure exists for solving them, a program must be devised using the garbage can method.
+ANSWER:	False
+
+4.	During the specify decision objectives step of the rational approach, the manager determines what performance outcomes should be achieved by a decision.
+ANSWER:	True
+
+5.	When decisions are nonprogrammed, ill-defined, and piling on top of one another, there is not reason for the individual manager to even attempt to use the steps in the rational approach.
+ANSWER:	False
+
+6.	The point of the rational approach is that managers use systematic procedures to arrive at good decisions.
+ANSWER:	True
+
+7.	In intuitive decision making, experience and judgment rather than sequential logic or explicit reasoning are used to make decisions.
+ANSWER:	True
+
+8.	Intuition should not be used in organizational decision making.
+ANSWER:	False
+
+9.	Management science is an excellent device for organizational decision making when problems are analyzable and when the variables can be identified and measured.
+ANSWER:	True
+
+10.	Management science, although cumbersome, cannot produce failures in decision making.
+ANSWER:	False
+
+11.	Management science sometimes produces decision failures, in part because quantitative data are not rich.
+ANSWER:	True
+
+12.	The Carnegie Model of organizational decision making was developed by Max Weber.
+ANSWER:	False
+
+13.	Problemistic search means that managers look around in the extended environment until they find the perfect solution to eventually resolve a problem.
+ANSWER:	False
+
+14.	The incremental model places major emphasis on political and social factors that influence decision outcomes.
+ANSWER:	False
+
+15.	A decision interrupt occurs when an organization must cycle back through a previous decision and try something new.
+ANSWER:	True
+
+16.	The selection phase of the incremental model is very clear that managers must analyze and choose on the basis of objective criteria in order to avoid any future delay that would interrupt implementation. 
+ANSWER:	False
+
+17.	The Carnegie Model and the incremental model disagree with each other on how decisions are made—the former claiming that they are made through a political process and the latter claiming that they emerge over time following careful objective analysis.
+ANSWER:	False
+
+18.	Organized anarchy is characterized by rapid change and a collegial, nonbureaucratic environment.
+ANSWER:	True
+
+19.	In the garbage can model, potential solutions may be independent of problems, but are ideas brought to organizational consciousness because participants are attracted to those ideas for some logical or illogical reason.
+ANSWER:	True
+
+20.	Problem consensus and technical knowledge about the means to solve those problems are two characteristics of organizations that determine the use of decision approaches.
+ANSWER:	True
+
+21.	Problem consensus refers to understanding and agreement about how to solve problems and reach organizational goals.
+ANSWER:	False
+
+22.	High-velocity environments call for decision makers to depend heavily on one or two savvy, trusted colleagues as counselors, even though everyone is ultimately involved in the decision.
+ANSWER:	True
+
+23.	Managers block or distort negative information when they are personally responsible for a negative decision and consistency and persistence are valued in contemporary society are the two explanations why managers escalate commitment to a failing decision.
+ANSWER:	True
+

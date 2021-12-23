@@ -1,0 +1,210 @@
+1.	_______ is defined as the behavior that occurs among organizational groups when participants identify with one group and perceive that other groups may block their group's goal achievement or expectations.
+a.	Goal incompatibility
+b.	Intergroup conflict
+c.	Political conflict
+d.	Strategic contingencies
+ANSWER:	b
+
+2.	The greatest cause of intergroup conflict in organizations is probably:
+a.	goal incompatibility.
+b.	differentiation.
+c.	task interdependence.
+d.	limited resources.
+ANSWER:	a
+
+3.	Attributes identified in our text as generating intergroup conflict include all of the following except:
+1.	differentiation.
+2.	task interdependence.
+3.	goal incompatibility.
+4.	personality.
+ANSWER:	d
+
+4.	Putting together what you know about the sources of potential conflict and about interdependence, which of the following attributes will create the greatest potential for conflict?
+a.	Pooled interdependence.
+b.	Functional specialization.
+c.	Reciprocal interdependence.
+d.	Routine technology.
+ANSWER:	c
+
+5.	Applying what you know about sources of conflict, you could conclude that as task interdependence moves from pooled to reciprocal interdependence:
+a.	conflict would decrease and competition would increase.
+b.	the potential for cooperation increases.
+c.	the potential for conflict increases.
+d.	greater goal incompatibility arises.
+ANSWER:	c
+
+6.	When goals are in alignment, there is little differentiation, departments are characterized by pooled interdependence, and resources seem abundant, managers can use _______ of organization.
+a.	a political model
+b.	referent power
+c.	authority
+d.	a rational model
+ANSWER:	d
+
+7.	_______ is the potential ability of one person/department to influence other persons/departments to carry out orders or do something they would not otherwise have done.
+a.	Cooperation
+b.	Collaboration
+c.	Power
+d.	Personal position
+ANSWER:	c
+
+8.	Which type of power does a manager enjoy because of his right to promote subordinates?
+a.	Legitimate.
+b.	Reward.
+c.	Coercive.
+d.	Referent.
+ANSWER:	b
+
+9.	Legitimate power comes from:
+a.	the positions in the organizations.
+b.	skill and knowledge.
+c.	personal characteristics.
+d.	resources controlled by managers.
+ANSWER:	a
+
+10.	People have authority in an organization because of:
+a.	the positions they hold.
+b.	skill and knowledge they possess.
+c.	personal characteristics.
+d.	resources they control.
+ANSWER:	a
+
+11.	Relative to power, the concept of formal authority is:
+a.	more narrow in scope.
+b.	the "umbrella term" that includes all power.
+c.	the same.
+d.	more dependent on personality.
+ANSWER:	a
+
+12.	In distinguishing between power and authority, we learned that power is:
+a.	vested in people.
+b.	can be exercised upward, downward, and horizontally.
+c.	flowing down the vertical hierarchy.
+d.	more narrow in scope than authority.
+ANSWER:	b
+
+13.	Vertical sources of power include all of the following except:
+a.	control of decision premises.
+b.	network centrality.
+c.	formal position.
+d.	manipulation.
+ANSWER:	d
+
+14.	If a manager decides to control decision premises, he will:
+a.	tell subordinates the expected decision in advance.
+b.	restrict the budget allocated to decision making.
+c.	force subordinates to spend more time on decision making.
+d.	place constraints on decisions made by lower ranking persons.
+ANSWER:	d
+
+15.	Being centrally located in the organization and having access to information and people that are critical to the company's success is referred to as:
+a.	decision premises.
+b.	strategic contingencies.
+c.	network centrality.
+d.	power sources.
+ANSWER:	c
+
+16.	For lower level employees, network centrality:
+a.	is out of reach because they cannot have access to critical information.
+b.	can be gained by becoming knowledgeable about certain activities or taking on difficult tasks and acquiring specialized knowledge.
+c.	makes no difference because they cannot increase power.
+d.	takes on different meaning than it does for top managers; it means nothing more than being physically located next to those with power.
+ANSWER:	b
+
+17.	_______ is difficult to measure because power differences are not defined on the organization chart.
+a.	Strategic contingencies
+b.	Horizontal power
+c.	Dependency
+d.	Decision premise
+ANSWER:	b
+
+18.	Strategic contingencies refer to:
+a.	events and activities that are essential for attaining organizational goals.
+b.	environmental factors which have an indirect influence on goal attainment.
+c.	alternate strategic plans to cope with possible environmental changes.
+d.	competitors who may damage corporate standing.
+ANSWER:	a
+
+19.	Dependency power is derived from:
+a.	being dependent on others for something.
+b.	having something someone else wants.
+c.	becoming paternalistic in one's management style.
+d.	immature subordinates.
+ANSWER:	b
+
+20.	One measure of _______ is the extent to which the work of the department affects the final output of the organization.
+a.	dependency
+b.	financial resources
+c.	nonsubstitutability
+d.	centrality
+ANSWER:	d
+
+21.	Which of the following means that a department's function cannot be performed by other readily available resources?
+a.	Coping with uncertainty.
+b.	Financial resources.
+c.	Dependency.
+d.	Nonsubstitutability.
+ANSWER:	d
+
+22.	We know which of the following about horizontal power?
+a.	It is reflected on the organization flow chart.
+b.	The sales department invariably carries higher power rating than other departments.
+c.	Its relationships changes as strategic contingencies change.
+d.	The concept of vertical linkages explains relative power.
+ANSWER:	c
+
+23.	Which of the following was not a reaction of mangers toward political behavior uncovered in surveys?
+a.	Managers believe political behavior is uncommon to practically all organizations.
+b.	Political behavior arises in certain decision domains, such as structural change, but is absent from other decisions, such as handling employee grievances.
+c.	Most managers have a negative view toward politics and believe that politics will more often hurt than help an organization in achieving its goals.
+d.	Most managers think political behavior occurs more often at upper rather than lower levels in organizations.
+ANSWER:	a
+
+24.	_______ is a mechanism for arriving at consensus when uncertainty is high and there is disagreement over goals or problem priorities.
+a.	Power
+b.	Authority
+c.	Politics
+d.	Decision premise
+ANSWER:	c
+
+25.	All of the following, except _______, are the domains of political activity.
+a.	management succession
+b.	expanded networks
+c.	resource allocation
+d.	structural change
+ANSWER:	b
+
+26.	Which of the following is a political tactic for increasing power?
+a.	Creating dependencies.
+b.	Satisfying strategic contingencies.
+c.	Providing resources.
+d.	All of the above.
+ANSWER:	d
+
+27.	Which of the following is not a political tactic for using power?
+a.	Expand networks.
+b.	Schedule intergroup consultation.
+c.	Enhance legitimacy and expertise.
+d.	Control decision premises.
+ANSWER:	b
+
+28.	Confrontation as a method of reducing conflict is likely to be more effective when:
+a.	all other forms of collaboration have failed.
+b.	no mutually acceptable outcomes can be envisioned.
+c.	the conflict is viewed as a win-win situation and the groups avoid threats.
+d.	all of the above.
+ANSWER:	c
+
+29.	Collective bargaining:
+a.	cannot be used to describe today's union-management relations, but does apply to general vertical conflict.
+b.	is one type of negotiation used to resolve disagreements between workers and management, through a union, establishing fixed responsibilities for the next two to three years.
+c.	is considered to be an integration device that results in contracts establishing flexible responsibilities for the next ten to fifteen years.
+d.	has been eliminated because of the introduction of more innovative cooperative approaches.
+ANSWER:	b
+
+30.	The win-win strategy of negotiation:
+a.	avoids confrontation.
+b.	finds creative agreements that satisfy both groups.
+c.	encourages each group to pursue their own outcomes.
+d.	communicates a high commitment regarding one's position.
+ANSWER:	b
+

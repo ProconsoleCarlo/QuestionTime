@@ -1,0 +1,81 @@
+1.	"Technology" could be considered to be the tools, techniques, and actions that are used to transform organizational inputs into outputs.
+ANSWER:	True
+
+2.	Large-batch production is considered to have greater technical complexity than small-batch production on Woodward's scale.
+ANSWER:	True
+
+3.	Perrow's study is classified as pertaining to organization-level technology, while Woodward's is classified as pertaining to department-level technology.
+ANSWER:	False
+
+4.	The management systems in both unit production and continuous process are characterized as mechanistic, whereas mass production is seen as organic.
+ANSWER:	False
+
+5.	Failing to adopt appropriate technologies to support strategy, or adopting a new technology and failing to realign strategy to match it, can lead to poor performance.
+ANSWER:	True
+
+6.	An integrated information network refers to a computerized system with a common database linking all areas of the organization such as accounting, inventory control, design, marketing, production, etc.
+ANSWER:	True
+
+7.	A company can adopt CAD in one department and/or CAM in another and make improvements in efficiency and quality, but the results of bringing all three components are breathtaking.
+ANSWER:	True
+
+8.	Mass customization refers to the separation of one product from the mass production line so that it can be adapted to the needs of a particular market.
+ANSWER:	False
+
+9.	Products of different sizes, types, and customer requirements freely intermingling on the assembly line is an advantage of lean manufacturing.
+ANSWER:	False
+
+10.	Compared with traditional mass production technologies, FMS has a narrow span of control, few hierarchical levels, adaptive tasks, low specialization, and decentralization, and the overall environment is characterized as organic and self-regulative.
+ANSWER:	True
+
+11.	Research suggests that FMS can become a competitive burden, rather than a competitive advantage, unless organizational structures and management processes are redesigned to take advantage of the new technology.
+ANSWER:	True
+
+12.	The production of tangible outputs from service technology, rather than intangible ones from manufacturing technology, is the most obvious difference between the two technologies.
+ANSWER:	False
+
+13.	Service technologies are considered to be labor and knowledge intensive, while manufacturing technologies tend to be capital asset intensive.
+ANSWER:	True
+
+14.	Boundary roles are used extensively in manufacturing firms, but rarely used in service organizations.
+ANSWER:	True
+
+15.	With services technologies, the organization should generally be centralized.
+ANSWER:	False
+
+16.	Routine technologies are characterized by little task variety and the use of objective, computational procedures, whereas engineering technologies tend to be complex because there is substantial variety in the tasks performed.
+ANSWER:	True
+
+17.	Engineering technologies tend to be low in analyzability and high in variety.
+ANSWER:	False
+
+18.	Span of control is the number of employees who report to a single manager or supervisor and is normally influenced by departmental technology.
+ANSWER:	True
+
+19.	A mediating technology provides products or services that mediate or link clients from the external environment and, in doing so, allows each department to work independently.
+ANSWER:	True
+
+20.	Intensive technologies "refers to the combination in one organization of successive stages of production; each stage of production uses as its inputs the production of the preceding stage and produces inputs for the following stage".
+ANSWER:	False
+
+21.	Sequential interdependence exists when the output of operation A is the input of operation B, and the output of operation B is the input back again to operation A.
+ANSWER:	False
+
+22.	Since decision making, communication, and coordination problems are greatest for reciprocal interdependence, reciprocal interdependence should receive last priority in organization structure.
+ANSWER:	False
+
+23.	A baseball team is an example of pooled interdependence.
+ANSWER:	True
+
+24.	Job enrichment refers to the expansion of the number of different tasks performed by an employee.
+ANSWER:	False
+
+25.	More advanced technology tends to cause job enrichment.
+ANSWER:	True
+
+26.	Job simplification means that jobs are made less difficult and with fewer tasks.
+ANSWER:	True
+
+27.	Advanced technology does not always have a positive effect on employees, but research findings in general are encouraging, suggesting that jobs for workers are enriched rather than simplified, engaging their higher mental capacities, offering opportunities for learning and growth, and providing greater job satisfaction.
+ANSWER:	True
+

@@ -1,0 +1,245 @@
+1.	An organization's domain is:
+a.	the set of positions and departments within the organization.
+b.	the buildings and grounds that are owned or leased by the organization in which inputs are transformed into outputs.
+c.	the organization's niche that has been staked out for itself with respect to products, services, and markets served.
+d.	the technical core that is buffered by other departments so that it can operate as a closed system.
+ANSWER:	c
+
+2.	Sectors of the environment which have direct impact on the organization are called the:
+a.	task environment.
+b.	general environment.
+c.	organizational buffers.
+d.	environmental boundary-spanners.
+ANSWER:	a
+
+3.	The task environment is:
+a.	all elements that exist outside the organizational boundary.
+b.	sectors with which the organization interacts directly.
+c.	domain.
+d.	all jobs and positions inherent within the organizational activity.
+ANSWER:	b
+
+4.	An organization's environment includes all except:
+a.	labor market.
+b.	city, state, and federal laws.
+c.	competitors.
+d.	production processes.
+ANSWER:	d
+
+5.	The following examples illustrate how various sectors can impact organizations:
+a.	in the industry sector, labor unions are a significant force.
+b.	in the market sector, we see an increasing number of foreign-owned manufacturing plants built in the U.S.
+c.	in the raw materials sector, we note that steel makers owned the beverage can market until the mid-1980s.
+d.	in the human resources sector, brand names are fighting it out with lower-cost store brands.
+ANSWER:	c
+
+6.	The ______ includes those sectors that might not have a direct impact on the daily operations of a firm but will indirectly influence it.
+a.	general environment
+b.	international context
+c.	task environment
+d.	buffering roles
+ANSWER:	a
+
+7.	All of the following, except _______, are examples of the general environment.
+a.	financial resources
+b.	human resources
+c.	economic conditions
+d.	government sector
+ANSWER:	b
+
+8.	Assessment of environmental uncertainty of an organization is based primarily on analysis of two dimensions, which are:
+a.	the need for information about the environment and the need for resources from the environment.
+b.	the number of sectors and the organization's niche.
+c.	the extent of turbulence and the amount of available resources.
+d.	differentiation and integration.
+ANSWER:	a
+
+9.	Which of the following is a proper dimension of the framework for assessing environmental uncertainty?
+a.	Dispersion-contiguity.
+b.	Simple-complex.
+c.	Certain-uncertain.
+d.	Internal-external.
+ANSWER:	b
+
+10.	Which of the following means that decision makers do not have sufficient information about environmental factors and they have a difficult time predicting external change?
+a.	Cooptation.
+b.	Differentiation.
+c.	Uncertainty.
+d.	Integration.
+ANSWER:	c
+
+11.	Which of the following is a proper dimension of the framework for assessing environmental uncertainty?
+a.	Stable-unstable.
+b.	Loose-tight.
+c.	Known-unknown.
+d.	High competitiveness-low competitiveness.
+ANSWER:	a
+
+12.	When Johnson & Johnson had to cope with the unpredictable Tylenol poisoning issue, their experience best exemplified the _______ dimension of the environment.
+a.	simple
+b.	complex
+c.	stable
+d.	unstable
+ANSWER:	d
+
+13.	Organizations in which of the following types of industries would face the greatest amount of environmental uncertainty?
+a.	Beer distributors because of simplicity.
+b.	Universities because of complexity.
+c.	Airlines because of instability.
+d.	Appliance manufacturers because of complexity.
+ANSWER:	c
+
+14.	Trend-setting toy companies or high-fashion clothing manufacturers have in common:
+a.	an environment that is stable but complex, therefore requiring a mechanistic structure.
+b.	an organic structure, from which we can reason that the environment is highly uncertain.
+c.	a large number of dissimilar external elements, which remain about the same over time.
+d.	an environment that is simple but unstable, creating relatively high uncertainty.
+ANSWER:	d
+
+15.	In the framework for assessing environmental uncertainty:
+a.	soft drink bottlers are examples of typical firms in the simple and unstable quadrant.
+b.	universities are examples of organizations typically found in the complex and stable quadrant.
+c.	electronic firms are typically found in the simple and stable quadrant.
+d.	fashion clothing or toy manufacturers would exemplify the complex and unstable quadrant.
+ANSWER:	b
+
+16.	Boundary-spanning roles:
+a.	primarily link data to information
+b.	buffer the manufacturing department from outside intrusion that would interfere with efficiency.
+c.	bring into the organization information about environmental changes.
+d.	move the firm to internationalism.
+ANSWER:	c
+
+17.	Bobby Barista is a researcher in the R&D department at 3M. Part of her job is to read technical and scientific journals, and to attend conferences to find out what new developments are occurring. When she is doing this part of her job she is carrying out a _____ role.
+a.	buffering
+b.	maintenance
+c.	boundary spanning
+d.	managerial
+ANSWER:	c
+
+18.	Allowing customers in an auto dealership service department to talk directly to the mechanic rather than to a service manager:
+a.	is an example of creating a buffering role.
+b.	is creating a boundary-spanning role.
+c.	will make the company less fluid.
+d.	will make the company less responsive to customers.
+ANSWER:	b
+
+19.	The differences in cognitive and emotional orientations among managers in different functional departments, and the difference in formal structure among these departments is referred to as
+a.	integration.
+b.	resource dependence.
+c.	cooptation.
+d.	differentiation.
+ANSWER:	d
+
+20.	In organizations characterized by very _______ and _____ environments, almost no managers are assigned to integration roles.
+a.	simple, stable
+b.	simple, unstable
+c.	complex, stable
+d.	complex, unstable
+ANSWER:	a
+
+21.	_______ is the quality of collaboration among departments.
+a.	Differentiation
+b.	Integration
+c.	Uncertainty
+d.	Cooptation
+ANSWER:	b
+
+22.	Organizations in rapidly changing environments tend to have _______ management processes.
+a.	differentiated
+b.	mechanistic
+c.	organic
+d.	dependent
+ANSWER:	c
+
+23.	Which of the following is not a characteristic of the mechanistic process?
+a.	Knowledge and control of tasks are centralized at the top of the organization.
+b.	Tasks are rigidly defined.
+c.	There is a strict hierarchy of authority and control.
+d.	Communication is horizontal.
+ANSWER:	d
+
+24.	Which of the following characteristics most accurately describes mechanistic organizations?
+a.	Authoritarian, unfriendly leadership.
+b.	Communication is horizontal.
+c.	It is a service organization with individualized customer demands.
+d.	Tasks are broken down into specialized parts.
+ANSWER:	d
+
+25.	All of the following, except _______, are ways high-moderate uncertainty influences organizational characteristics.
+a.	mechanistic structure: formal, centralized
+b.	few integrating roles
+c.	planning orientation: fast response
+d.	few departments, much boundary spanning
+ANSWER:	a
+
+26.	_______ is a way that high uncertainty influences organizational characteristics.
+a.	Extensive planning and forecasting
+b.	Few departments
+c.	No integrating roles
+d.	Mechanistic structure
+ANSWER:	a
+
+27.	_______ means that organizations depend on the environment but strive to acquire control over resources to minimize their dependence.
+a.	Integration
+b.	Resource dependence
+c.	Organic process
+d.	Cooptation
+ANSWER:	b
+
+28.	All of the following are strategies for controlling the environmental domain except
+a.	illegitimate activities.
+b.	political activities and regulations.
+c.	change of domain.
+d.	cooptation and interlocking directorates.
+ANSWER:	d
+
+29.	A(n) ____________ involves the purchase of one organization by another so that the buyer assumes control.
+a.	acquisition
+b.	merger
+c.	joint venture
+d.	domain
+ANSWER:	a
+
+30.	Dave Dunn is a militant member of a faculty union at a medium-sized college. When the union's negotiating committee is reporting to a meeting of the faculty, he always finds fault with the work of that committee and strongly advocates striking. When a member of the negotiating committee resigns because of illness, the union's executive committee appoints Dave to take his place. This is an example of:
+a.	formal strategic alliance.
+b.	cooptation.
+c.	change of domain.
+d.	public relations.
+ANSWER:	b
+
+31.	A(n) _______ is a formal linkage that occurs when a member of the board of directors of one company sits on the board of directs of another company.
+a.	joint venture
+b.	interlocking directorate
+c.	integration
+d.	indirect interlock
+ANSWER:	b
+
+32.	Which of the following occurs when leaders from important sectors in the environment are made part of an organization?
+a.	Integration.
+b.	Joint venture.
+c.	Resource dependence.
+d.	Cooptation.
+ANSWER:	d
+
+33.	_______ is especially important in highly competitive consumer industries and in industries that experience variable demand.
+a.	Advertising
+b.	Cooptation
+c.	Executive recruitment
+d.	Contracts
+ANSWER:	a
+
+34.	An organization can change its domain most directly by:
+a.	hiring a new CEO.
+b.	changing the nature of the labor - management agreements.
+c.	divesting a division of the organization.
+d.	moving to a more favorable structure.
+ANSWER:	c
+
+35.	_______ can be used to erect regulatory barriers against new competitors or to squash unfavorable legislation.
+a.	Cooptation
+b.	Contracts
+c.	Joint venture
+d.	Political strategy
+ANSWER:	d
+
